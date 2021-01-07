@@ -1,0 +1,43 @@
+#imgphoto {
+    float: right;
+    width: 150px;
+    border: solid 3px grey;
+}
+
+#imganim{
+    width: 50px;
+    position: absolute;
+}
+
+.jqm-block-content {
+    margin: .5em;
+    padding: 1em;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: .3125em;
+    font-family: sans-serif;
+}
+div {
+    display: block;
+    word-wrap: break-word;
+}
+
+h3 {
+    text-align: center;
+    border-bottom: solid 2px rgba(177,177,177,0.92);
+}
+body {
+    background: white;
+}
+
+.jqm-block-content{
+    border: 2px solid gray;
+}
+
+h5{
+    border-bottom: solid 2px rgba(177,177,177,0.92);
+    width: 190px;
+    font-size: 18px;;
+    font-family: Algerian;
+}
+
